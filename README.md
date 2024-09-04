@@ -1,4 +1,4 @@
-## Overview
+##  Overview 🛠️
 
 This script is designed to manage PostgreSQL databases. It provides options to create a new database, delete an existing database, and display help information. The script ensures proper user inputs and handles errors effectively.
 
@@ -6,26 +6,26 @@ This script is designed to manage PostgreSQL databases. It provides options to c
 
 
 
-## Prerequisites
+## Prerequisites 📋
 
 -   **PostgreSQL**: Ensure PostgreSQL is installed and properly configured on your system.
 -   **Privileges**: The script requires superuser privileges to execute database commands. It must be run with `sudo`.
 
-## Features
+## Features 🌟
 
 -   **Create a New Database**: Prompts for database name, user, and password, then creates the database and user, and grants all privileges to the user.
 -   **Delete an Existing Database**: Lists all non-template databases, allows selection of a database to delete, and confirms the deletion.
 -   **Help**: Displays usage information.
 
-## Usage
+## Usage 📚
 
-### Running the Script
+### Running the Script 
 
 To run the script, use the following command:
 
 `sudo ./postgres_db_tool.sh ` 
 
-### Script Options
+### Script Options 
 
 Upon running the script, you will be presented with a menu:
 
@@ -41,7 +41,7 @@ Upon running the script, you will be presented with a menu:
 3.  **Help**:
     -   Displays usage information and descriptions of the script's functionality.
 
-### Example
+### Example 💡
 
 1.  **Create a New Database**:
     

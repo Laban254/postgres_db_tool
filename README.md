@@ -90,9 +90,6 @@ Upon running the script, you will be presented with a menu:
     -   Privilege granting errors: `/tmp/db_grant_error.log`
     -   Database deletion errors: `/tmp/db_delete_error.log`
 
-## License
-
-This script is provided "as is", without warranty of any kind. Use at your own risk.
 
 ----------
 
